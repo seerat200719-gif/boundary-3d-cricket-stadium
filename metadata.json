@@ -1,0 +1,6 @@
+{
+  "name": "Boundary - 3D Cricket Stadium Operations",
+  "description": "Live low-poly 3D operations dashboard and match-day strategy simulator for a premier cricket arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
